@@ -1,0 +1,22 @@
+* {
+
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: black;
+}
+.container{
+    border-radius: 5%;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 700;
+    background-color: rgb(17, 17, 17);
+    color: rgb(99, 99, 99);
+    max-width: 1200px;
+    max-height: 1400px;
+    margin: 0 auto;
+}
+li{
+    transform: translateX(100px);
+}
